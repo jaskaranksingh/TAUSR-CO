@@ -1,2 +1,1 @@
-def test_dummy():
-    assert True
+#To be updated with infernece and weight
