@@ -1,7 +1,7 @@
 # TAUSR-CO: Texture-Attentive Ultrasound Super-Resolution with Contrast Optimization
 
-This repository contains a modular implementation of the TAUSR-CO architecture described in our  MICCAI 2025 submission.
-TAUSR-CO is a hierarchical, frequency-aware super-resolution model designed specifically for ultrasound imaging.  
+This repository contains a modular implementation of the TAUSR-CO architecture described in our MICCAI 2025 submission.<br>
+TAUSR-CO is a hierarchical, frequency-aware super-resolution model designed specifically for ultrasound imaging.<br>
 TAUSR-CO focuses on restoring fine-grained textures, enhancing contrast, and refining depth—all while handling the unique challenges of ultrasound data like speckle noise and low signal fidelity.
 
 
